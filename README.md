@@ -1,6 +1,8 @@
 # SHOPPING CART
 https://amnaskitchen.netlify.app/
 
+![](https://github.com/Wahab3917/AmnasKitchen/blob/main/amnaskitchen.png)
+
 ## Description: 
 A simple shopping cart of an E-commerce website.<br>
 
